@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 */*-checkpoint.py
 */*-checkpoint.ipynb
+data/*
