@@ -5,3 +5,5 @@ __pycache__/
 */*-checkpoint.py
 */*-checkpoint.ipynb
 data/*
+family/*
+family_photos.zip
