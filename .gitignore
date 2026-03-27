@@ -7,3 +7,7 @@ __pycache__/
 data/*
 family/*
 family_photos.zip
+vectors.vec
+training*
+lesson6.tar
+sample.log
